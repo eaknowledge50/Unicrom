@@ -1,2 +1,2 @@
 # Unicrom
-testing data service the produces unique user information for QA testing
+testing data service that produces unique user information for QA testing
